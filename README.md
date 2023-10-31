@@ -57,15 +57,15 @@ git remote add origin [https://github.com/daylapvlong/SWP391_Student-project-por
 ## Credits
 * [ngominhduc24](https://github.com/ngominhduc24)
 * [andhuc](https://github.com/andhuc)
-* [maidung1602](https://github.com/maidung1602)
+* [daylapvlong](https://github.com/daylapvlong)
 * [nhatnguyenthanh00](https://github.com/nhatnguyenthanh00)
 
 ## Contact
 <p align="left">
-  <a href="https://www.linkedin.com/in/pham-long-1b3591257/"><img alt="Linkedin" title="Long Pham Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:phmvtlong@gmail.com"><img alt="Gmail" title="Long Pham Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/daylapvlong"><img alt="Github" title="Long Pham Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100012864726826"><img alt="Facebook" title="Long Pham FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/_.longpham._/"><img alt="Instagram" title="JLong Pham Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maidung1602/"><img alt="Linkedin" title="Dung Hoang Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:maidung1602@gmail.com"><img alt="Gmail" title="Dung Hoang Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/maidung1602"><img alt="Github" title="Dung Hoang Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/maidung2003"><img alt="Facebook" title="Dung Hoang FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/meii_duzgn/"><img alt="Instagram" title="Dung Hoang Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
